@@ -1,0 +1,20 @@
+.jumbotron {
+  padding: 30px;
+  margin: 15px 0 30px 0;
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 2.1428571435;
+  color: inherit;
+  background-color: #7746d7;
+}
+
+.jumbotron h1,
+.jumbotron .h1 {
+  line-height: 1;
+  color: #ffffff;
+}
+
+.jumbotron p {
+  line-height: 1.4;
+  color: #aebc2f;
+}
